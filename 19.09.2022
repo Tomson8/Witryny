@@ -8,10 +8,12 @@ Hosting - Serwer gdzie przechowujemy pliki stron WWW
 Link - Odnośnik do trony 
 HTML 4 vs XHTML vs HTML 5 - 
 deprecated - Przstarzałe oprogramowanie
-javScript - Język oprogramowania 
+javScript - hJęzyk oprogramowania 
 CSS - Cascading Style Sheets - Wpływa na wygląd strony. 
 
-< br > - Znacnzik nowej linii
-< html > < /html > - początek i koniec dokumentu html
-< head > < /head > - początek i koniec nagłówka html
-< body > < /body > - początek i koniec ciała (zawartości) dokumentu html
+<br><br> 
+<h1>Znaczniki</h1>
+<code>< br ></code> - Znacnzik nowej linii
+<code>< html > i </ html > </code> - początek i koniec dokumentu html
+<code>< head > i </ head > </code> - początek i koniec nagłówka html
+<code>< body > i </ body > </code> - początek i koniec ciała (zawartości) dokumentu html
