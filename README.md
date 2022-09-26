@@ -11,8 +11,6 @@ deprecated - Przstarzałe oprogramowanie
 javScript - hJęzyk oprogramowania 
 CSS - Cascading Style Sheets - Wpływa na wygląd strony. 
 
-<br><br> 
-<h1>Znaczniki</h1>
 < br > - Znacnzik nowej linii <br>
 < html > i </ html > - początek i koniec dokumentu html <br>
 < head > i </ head > - początek i koniec nagłówka html <br>
