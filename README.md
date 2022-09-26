@@ -13,10 +13,10 @@ CSS - Cascading Style Sheets - Wpływa na wygląd strony.
 
 <br><br> 
 <h1>Znaczniki</h1>
-<code>< br ></code> - Znacnzik nowej linii <br>
-<code>< html > i </ html > </code> - początek i koniec dokumentu html <br>
-<code>< head > i </ head > </code> - początek i koniec nagłówka html <br>
-<code>< body > i </ body > </code> - początek i koniec ciała (zawartości) dokumentu html <br>
+< br > - Znacnzik nowej linii <br>
+< html > i </ html > - początek i koniec dokumentu html <br>
+< head > i </ head > - początek i koniec nagłówka html <br>
+< body > i </ body > - początek i koniec ciała (zawartości) dokumentu html <br>
 <p> i </p> - paragraf 
 <html lang="pl">
 <meta charset="UTF-8"> Polskie znaki na stronie kodowanie UTF-8 lub iso-8859-2
