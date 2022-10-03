@@ -12,8 +12,8 @@ CSS- Cascading Style Sheets<br>
 <.html lang="pl">- kodowanie z polskimi znakomi
 <.meta charset="UTF-8"> kodowanie z polskimi znakami
 <.html>...<./html> - poczatek i koniec dokumentu html<br>
-<head>...<./head> poczatek i koniec naglowka html<br>
-<body>...<./body> - poczatek i koniec zawartosci dokumentu html<br>
+<.head>...<./head> poczatek i koniec naglowka html<br>
+<.body>...<./body> - poczatek i koniec zawartosci dokumentu html<br>
 <.br>- znak nowej lini<br>
 <.p>...<./p> - poczatek i koniec paragrafu<br>
 <.b>...<./b> - pogrubienie<br> 
