@@ -41,6 +41,6 @@ spacja<br>
 <code>&lt;mark&gt; &lt;/mark&gt; </code> wyróżnienie tekstu, tak jak <mark>zakreślaczem</mark><br>
 <code>&lt;sup&gt; &lt;/sup&gt; </code> indeks górny 10<sup>23</sup><br>
 <code>&lt;sub&gt; &lt;/sub&gt;</code> indeks dolny H<sub>2</sub>o<br>
-<code>&lt;small&gt;  &lt;/small&gt; </code> zmniejszenie tekstu <small> mniejszy tekst <small> jeszcze
- mniejszy tekst </small></small><br>
+<code>&lt;small&gt; i &lt;/small&gt; </code> Zmniejszenie tekstu <small> mniejszy tekst <small> jeszcze
+mniejszy tekst</small></small><br>
 <code>&lt;mark&gt;  &lt;/mark&gt; </code> wyróżnienie tekstu, tak jak <mark>zakreślaczem</mark><br>
