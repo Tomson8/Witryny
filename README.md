@@ -54,12 +54,12 @@ strony <del>2000</del>200<br> <code>&lt;ins&gt; i &lt;/ins&gt;
 <h4>Przykłady</h4>
 <ol>
   <li>Danila</li>
-  <li>tukasz</li>
+  <li>Łukasz</li>
   <li>Paweł</li>
 </ol>
   <ul>
   <li>Danila</li>
-  <li>tukasz</li>
+  <li>Łukasz</li>
   <li>Paweł</li>
 </ul>
   <h3> lista definicji</h3>
