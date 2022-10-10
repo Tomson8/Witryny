@@ -62,12 +62,12 @@ strony <del>2000</del>200<br> <code>&lt;ins&gt; i &lt;/ins&gt;
 <li>tukasz</li>
 <li>Paweł</li>
 </ul>
-<h3> lista definicji</h3>
+  <h3> lista definicji</h3>
 <code>&lt;d1&gt; i &lt;/d1&gt; </code> początek i koniec listy deficji<br>
 <code>&lt;dt&gt; i &lt;/dt&gt; </code>definition term- definicja<br>
 <code>&lt;dd&gt; i &lt;/dd&gt; </code>definition descryption opis pojęcia<br>
-<h4>Przykłady</h4>
-<dl>
-<dt>HTML</dl>
-<dd>Język hipertekstowy opisu stron internetowych</dd>
-</dl>
+  <h3>Przykłady</h3>
+ <dl>
+   <dt>HTML</dl>
+   <dd>Język hipertekstowy opisu stron internetowych</dd>
+ </dl>
