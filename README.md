@@ -46,4 +46,19 @@ mniejszy tekst</small></small><br>
 <code>&lt;mark&gt;  &lt;/mark&gt; </code> wyróżnienie tekstu, tak jak <mark>zakreślaczem</mark><br>
 <code>&lt;del&gt; &lt;/del&gt; </code> przekreślenie tekstu zaznaczenie, że coś zostalo usuniete ze
 strony <del>2000</del>200<br> <code>&lt;ins&gt; i &lt;/ins&gt;
-</code> fragment został dodany do poprzedniego tekstu<ins>2000</nss>200<br> 133 43
+<hr>
+<h3>Listy</h3>
+<code>&lt;ol&gt; i &lt;/ol&gt;</code> początek i koniec listy uporządkowanej<br>
+<code>&lt;ul&gt; &lt;/ul&gt;</code> początek i koniec listy nieuporządkowanej<br>
+<code>&lt;li&gt; i &lt;/li&gt;</code> element listy<br>
+<h4>Przykłady</h4>
+<ol>
+<li>Danila</li>
+<li>tukasz</li>
+<li>Paweł</li>
+</ol>
+<ul>
+<li>Danila</li>
+<li>tukasz</li>
+<li>Paweł</li>
+</ul>
