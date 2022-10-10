@@ -11,7 +11,8 @@ CSS- Cascading Style Sheets
 <h1>Znacznik</h1>
 <code>< br ></code> -znacznik nowej linii, przestarzale <br /> <br>
 <code>< html>i</html> </code>- początek i koniec dokumentu html <br>
-<code><head> </head> </code> początek i koniec nagłówka html <br> 17 <code>< body> </body> </code>- początek i koniec ciała (zawartości) dokumentu html <br>
+<code><head> </head> </code> początek i koniec nagłówka html <br>
+<code>< body> </body> </code>- początek i koniec ciała (zawartości) dokumentu html <br>
 <code>&lt;p&gt; i &lt;/p&gt;</code> paragraf <br>
 <code>&lt;html lang="pl"&gt;</code><br>
 <code>&lt;meta charset="UTF-8"&gt;</code> polskie znaki na stronie kodowanie UTF-8 lub iso-8859-2<br>
@@ -34,7 +35,8 @@ spacja<br>
 <code>&lt;strong&gt; &lt;/strong&gt;</code> <strong>pogrubiony tekst</strong> wygląda tak samo jak znacznik &lt;b&gt; ale nadaje wieksze znaczenie dla tekstu ważne w przypadku pozycjonowania<br>
 <code>&lt;em&gt; i &lt;/em&gt;</code> <em>pochylony tekst</em> wygląda tak samo jak znacznik &lt;1&gt; ale nadaje wieksze znaczenie dla tekstu ważne w przypadku pozycjonowania (ang. emphasize podkreślenie, uwypuklenie)<br>
 <code>&lt;small&gt; &lt;/small&gt; </code> Zmniejszenie tekstu <small> mniejszy tekst <small> jeszcze mniejszy tekst</small></small><br>
-<code>&lt;mark&gt; &lt;/mark&gt; </code> wyróżnienie tekstu, tak jak <mark>zakreślaczem</mark><br> 39 <code>&lt;sup&gt; &lt;/sup&gt; </code> indeks górny 10<sup>23</sup><br>
+<code>&lt;mark&gt; &lt;/mark&gt; </code> wyróżnienie tekstu, tak jak <mark>zakreślaczem</mark><br>
+<code>&lt;sup&gt; &lt;/sup&gt; </code> indeks górny 10<sup>23</sup><br>
 <code>&lt;small&gt; &lt;/small&gt; </code> Zmniejszenie tekstu <small> mniejszy tekst <small> jeszcze mniejszy tekst</small></small><br>
 <code>&lt;mark&gt; &lt;/mark&gt; </code> wyróżnienie tekstu, tak jak <mark>zakreślaczem</mark><br>
 <code>&lt;sup&gt; &lt;/sup&gt; </code> indeks górny 10<sup>23</sup><br>
