@@ -1,8 +1,8 @@
 #witryny
 HTML - HyperText Markup Language (hipertekstowy jezyk znacznikow ktory pozwala na wyswietlanie stron internetowych)<br>
-HyperText - text z hiperżączi do innych linkówcbr>
-Markup znacznik<br>
-Doena - nazwa (github.com/Lukaszbuturla)<br>
+HyperText - text z hiperżączi do innych linkówc
+Markup znacznik
+Doena - nazwa (github.com/Lukaszbuturla)
 Hosting server z plikami stron <br> 7 Link zmieniony adres ip strony <br>
 HTML 4 vs XHTML vs HTML 5<br>
 Deprecated - przestarzale <br> 10 JavaScript - jezyk programowania stron<br>
