@@ -1,4 +1,4 @@
-#vitryny
+#witryny
 HTML - HyperText Markup Language (hipertekstowy jezyk znacznikow ktory pozwala na wyswietlanie stron internetowych)<br>
 HyperText - text z hiperżączi do innych linkówcbr>
 Markup znacznik<br>
