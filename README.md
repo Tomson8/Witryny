@@ -6,21 +6,22 @@ Doena - nazwa (github.com/Lukaszbuturla)<br>
 Hosting server z plikami stron <br> 7 Link zmieniony adres ip strony <br>
 HTML 4 vs XHTML vs HTML 5<br>
 Deprecated - przestarzale <br> 10 JavaScript - jezyk programowania stron<br>
-CSS- Cascading Style Sheets<br>
-<br>
-<h1>znacznik "<.h1>...<./h1>"</h1>
-<.html lang="pl">- kodowanie z polskimi znakomi
-<.meta charset="UTF-8"> kodowanie z polskimi znakami
-<.html>...<./html> - poczatek i koniec dokumentu html<br>
-<.head>...<./head> poczatek i koniec naglowka html<br>
-<.body>...<./body> - poczatek i koniec zawartosci dokumentu html<br>
-<.br>- znak nowej lini<br>
-<.p>...<./p> - poczatek i koniec paragrafu<br>
-<.b>...<./b> - pogrubienie<br> 
-<.1>...<./1> - pochylenie <br>
-<.h1>...<./h1> - naglowek 1 stopnia<br>
-<.h2>...<./h2> - naglowek 2 stopnia<br>
-<.h3>...<./h3> - naglowek 3 stopnia<br>
-<.h4>...<./h4> - naglowek 4 stopnia<br>
-<.h5>...<./h5> - naglowek 5 stopnia<br>
-<.h6>...<./h6> - naglowek 6 stopnia<br> 
+CSS- Cascading Style Sheets
+<br><br>
+<h1>Znacznik</h1>
+<code>< br ></code> -znacznik nowej linii, przestarzale <br /> <br>
+<code>< html>i</html> </code>- początek i koniec dokumentu html <br>
+<code><head> </head> </code> początek i koniec nagłówka html <br> 17 <code>< body> </body> </code>- początek i koniec ciała (zawartości) dokumentu html <br>
+<code>&lt;p&gt; i &lt;/p&gt;</code> paragraf <br>
+<code>&lt;html lang="pl"&gt;</code><br>
+<code>&lt;meta charset="UTF-8"&gt;</code> polskie znaki na stronie kodowanie UTF-8 lub iso-8859-2<br>
+<code>&lt;b&gt; i &lt;/b&gt;</code><b>pogrubienie</b><br>
+<code>&lt;1&gt; i &lt;/&gt; </code><i>pochylenie</i><br>
+<code>&lt;i title="opis tekstu"&gt; &lt;/i8gt; </code><i title="opis tekstu">pochylenie tekstu razem z opisem podczas najechania myszką</i><br>
+pozycjonowanie stron <br>
+<code>&lt;span title="opis tekstu &gt; 1 81t;/span&gt; </code><p> To jest paragraf.cspan title="opis tekstu"> tekst razem z opisem podczas najechania myszką</span>. Koniec paragrafu</p><br>
+<h1><code>&lt;h1&gt; i &lt;/h18gt: </code>nagłówek 1 stopnia</h1><br>
+<h2> <code>&lt;h2&gt; &lt;/h2&gt; </code>nagłówek 2 stopnia</h2><br>
+<h3> <code>&lt;h38gt; &lt;/h3&gt; </code>nagłówek 3 stopnia</h3><br>
+<h4> <code>&lt;ha&gt; &lt;/h4&gt; </code>nagłówek 4 stopnia</h4><br>
+<h5> <code>&lt;hs&gt; i &lt;/h5&gt; </code>nagłówek 5 stopnia</h5><br>
