@@ -21,7 +21,15 @@ CSS- Cascading Style Sheets
 pozycjonowanie stron <br>
 <code>&lt;span title="opis tekstu &gt; 1 81t;/span&gt; </code><p> To jest paragraf.cspan title="opis tekstu"> tekst razem z opisem podczas najechania myszką</span>. Koniec paragrafu</p><br>
 <h1> <code>&lt;h1&gt; i &lt;/h1&gt: </code>nagłówek 1 stopnia</h1><br>
-<h2> <code>&lt;h2&gt; &lt;/h2&gt; </code>nagłówek 2 stopnia</h2><br>
-<h3> <code>&lt;h38gt; &lt;/h3&gt; </code>nagłówek 3 stopnia</h3><br>
-<h4> <code>&lt;ha&gt; &lt;/h4&gt; </code>nagłówek 4 stopnia</h4><br>
+<h2> <code>&lt;h2&gt; i &lt;/h2&gt; </code>nagłówek 2 stopnia</h2><br>
+<h3> <code>&lt;h38gt; i &lt;/h3&gt; </code>nagłówek 3 stopnia</h3><br>
+<h4> <code>&lt;ha&gt; i &lt;/h4&gt; </code>nagłówek 4 stopnia</h4><br>
 <h5> <code>&lt;hs&gt; i &lt;/h5&gt; </code>nagłówek 5 stopnia</h5><br>
+ <h6> <code>&lt;h6&gt; i &lt;/h6&gt; </code>nagłówek 6 stopnia</h6><br>
+ <code>&lt;body bgcolor="red"&gt;</code><body bgcolor="red">kolor tia strony - W HTML5 nie
+używać</body><br>
+<code>&nbsp;</code> więcej niż jedna &nbsp;&nbsp;&nbsp;&nbsp;
+<code>&lt;hr&gt; </code> linia horyzontalna<br><hr><br>
+spacja<br>
+<code>&lt;strong&gt; &lt;/strong&gt;</code> <strong>pogrubiony tekst</strong> wygląda tak samo jak znacznik &lt;b&gt; ale nadaje wieksze znaczenie dla tekstu ważne w przypadku pozycjonowania<br>
+<code>&lt;em&gt; i &lt;/em&gt;</code> <em>pochylony tekst</em> wygląda tak samo jak znacznik &lt;1&gt; ale nadaje wieksze znaczenie dla tekstu ważne w przypadku pozycjonowania (ang. emphasize podkreślenie, uwypuklenie)<br>
