@@ -53,14 +53,14 @@ strony <del>2000</del>200<br> <code>&lt;ins&gt; i &lt;/ins&gt;
 <code>&lt;li&gt; &lt;/li&gt;</code> element listy<br>
 <h4>Przykłady</h4>
 <ol>
-<li>Danila</li>
-<li>tukasz</li>
-<li>Paweł</li>
+  <li>Danila</li>
+  <li>tukasz</li>
+  <li>Paweł</li>
 </ol>
-<ul>
-<li>Danila</li>
-<li>tukasz</li>
-<li>Paweł</li>
+  <ul>
+  <li>Danila</li>
+  <li>tukasz</li>
+  <li>Paweł</li>
 </ul>
   <h3> lista definicji</h3>
 <code>&lt;d1&gt; i &lt;/d1&gt; </code> początek i koniec listy deficji<br>
