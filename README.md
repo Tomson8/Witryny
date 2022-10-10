@@ -33,3 +33,6 @@ używać</body><br>
 spacja<br>
 <code>&lt;strong&gt; &lt;/strong&gt;</code> <strong>pogrubiony tekst</strong> wygląda tak samo jak znacznik &lt;b&gt; ale nadaje wieksze znaczenie dla tekstu ważne w przypadku pozycjonowania<br>
 <code>&lt;em&gt; i &lt;/em&gt;</code> <em>pochylony tekst</em> wygląda tak samo jak znacznik &lt;1&gt; ale nadaje wieksze znaczenie dla tekstu ważne w przypadku pozycjonowania (ang. emphasize podkreślenie, uwypuklenie)<br>
+<code>&lt;small&gt; &lt;/small&gt; </code> Zmniejszenie tekstu <small> mniejszy tekst <small> jeszcze mniejszy tekst</small></small><br>
+<code>&lt;mark&gt; &lt;/mark&gt; </code> wyróżnienie tekstu, tak jak <mark>zakreślaczem</mark><br> 39 <code>&lt;sup&gt; &lt;/sup&gt; </code> indeks górny 10<sup>23</sup><br>
+<code>&lt;sub&gt; &lt;/sub&gt;</code> indeks dolny H<sub>2</sub>o<br>
