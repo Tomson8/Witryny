@@ -48,9 +48,9 @@ mniejszy tekst</small></small><br>
 strony <del>2000</del>200<br> <code>&lt;ins&gt; i &lt;/ins&gt;
 <hr>
 <h3>Listy</h3>
-<code>&lt;ol&gt; i &lt;/ol&gt;</code> początek i koniec listy uporządkowanej<br>
+<code>&lt;ol&gt; &lt;/ol&gt;</code> początek i koniec listy uporządkowanej<br>
 <code>&lt;ul&gt; &lt;/ul&gt;</code> początek i koniec listy nieuporządkowanej<br>
-<code>&lt;li&gt; i &lt;/li&gt;</code> element listy<br>
+<code>&lt;li&gt; &lt;/li&gt;</code> element listy<br>
 <h4>Przykłady</h4>
 <ol>
 <li>Danila</li>
