@@ -20,7 +20,7 @@ CSS- Cascading Style Sheets
 <code>&lt;i title="opis tekstu"&gt; &lt;/i8gt; </code><i title="opis tekstu">pochylenie tekstu razem z opisem podczas najechania myszką</i><br>
 pozycjonowanie stron <br>
 <code>&lt;span title="opis tekstu &gt; 1 81t;/span&gt; </code><p> To jest paragraf.cspan title="opis tekstu"> tekst razem z opisem podczas najechania myszką</span>. Koniec paragrafu</p><br>
-<h1><code>&lt;h1&gt; i &lt;/h18gt: </code>nagłówek 1 stopnia</h1><br>
+<h1> <code>&lt;h1&gt; i &lt;/h1&gt: </code>nagłówek 1 stopnia</h1><br>
 <h2> <code>&lt;h2&gt; &lt;/h2&gt; </code>nagłówek 2 stopnia</h2><br>
 <h3> <code>&lt;h38gt; &lt;/h3&gt; </code>nagłówek 3 stopnia</h3><br>
 <h4> <code>&lt;ha&gt; &lt;/h4&gt; </code>nagłówek 4 stopnia</h4><br>
