@@ -69,7 +69,7 @@ strony <del>2000</del>200<br> <code>&lt;ins&gt; i &lt;/ins&gt;
  
 <hr>
 <h3>Grafika na stronie<h3>
-<code>&lt;img src=""&gt;</code> wyświetlanie obrazu (grafiki) na stronie <img src="https://waskiel.pl/wp content/uploads/2017/09/jak-zrobic-dobre-zdjecie-z-wykorzystaniem-warunkow-atmosferycznych-1024x683.jpg">
+<code>&lt;img src=""&gt; </code> wyświetlanie obrazu (grafiki) na stronie <img src="https://waskiel.pl/wp content/uploads/2017/09/jak-zrobic-dobre-zdjecie-z-wykorzystaniem-warunkow-atmosferycznych-1024x683.jpg">
 <br>
 <code>&lt;img src="" width="" height=""&gt;</code> wyświetlanie obrazu (grafiki) na stronie wraz z podaniem wymiarów grafiki grafika zostanie zeskalowana, nie zostanie oryginał zmniejszony<br> <img src="https://www.autocentrum.pl/ac-file/article/5ec2cb7cff0c3273b6376277/uzywane-bmw-x3-e83-2003-2010-poradnik-kupujacego.jpg" width="100" height="100"> <br>
 <code>&lt;img src="" width="" height=""&gt;</code> wyświetlanie obrazu (grafiki) na stronie wraz z podaniem wymiarów grafiki grafika zostanie zeskalowana, nie zostanie oryginał zmniejszony<br> <img src="https://www.autocentrum.pl/ac-file/article/5ec2cb7cff0c3273b6376277/uzywane-bmw-x3-e83-2003-2010-poradnik-kupujacego.jpg" width="100" height="100"> <br>
