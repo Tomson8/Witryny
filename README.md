@@ -80,6 +80,6 @@ strony <del>2000</del>200<br> <code>&lt;ins&gt; i &lt;/ins&gt;
 &lt;figcaption&gt; Podpis obrazu&lt;/figcaption&gt;
 &lt;/figure&gt;</pre></code> wyświetlanie podpisu pod obrazem <br>
 <figure>
-<img src="https://waskiel.pl/wp-content/uploads/2017/09/jak-zrobic-dobre-zdjecie z wykorzystaniem warunkow-atmosferycznych-1024x683.jpg" title="tekst wyswietlajacy sie po najechaniu kursorem">
+<img src="[https://waskiel.pl/wp-content/uploads/2017/09/jak-zrobic-dobre-zdjecie z wykorzystaniem warunkow-atmosferycznych-1024x683.jpg" title="tekst wyswietlajacy sie po najechaniu kursorem">
 <figcaption>Podpis obrazu</figcaption>
 </figure>
