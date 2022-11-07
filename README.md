@@ -87,7 +87,7 @@ strony <del>2000</del>200<br> <code>&lt;ins&gt; i &lt;/ins&gt;
 <.tr>...<./tr> - pocztek i koniec wiersza tabeli
 <.td>...<./td> - poczatek i koniec komorki tabeli
   
- <table>
+<table>
    <tr>
      <th>naglowek 1</th>
      <td>komorka 2</td>
@@ -98,4 +98,4 @@ strony <del>2000</del>200<br> <code>&lt;ins&gt; i &lt;/ins&gt;
    </tr>
   </table><br>
   
-<.th>...<./th> - poczatek i koniec naglowka
+ <.th>...<./th> - poczatek i koniec naglowka
