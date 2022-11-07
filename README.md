@@ -83,3 +83,19 @@ strony <del>2000</del>200<br> <code>&lt;ins&gt; i &lt;/ins&gt;
 <img src="https://www.autocentrum.pl/ac-file/article/5ec2cb7cff0c3273b6376277/uzywane-bmw-x3-e83-2003-2010-poradnik-kupujacego.jpg" title="tekst wyswietlajacy sie po najechaniu kursorem">
 <figcaption>Podpis obrazu</figcaption>
 </figure>
+<.table>...<./table> - poczatek i koniec tabeli
+<.tr>...<./tr> - pocztek i koniec wiersza tabeli
+<.td>...<./td> - poczatek i koniec komorki tabeli
+  
+ <table>
+   <tr>
+     <th>naglowek 1</th>
+     <td>komorka 2</td>
+   </tr>
+   <tr>
+     <td>komorka 3</td>
+     <td>komorka 4</td>
+   </tr>
+  </table><br>
+  
+<.th>...<./th> - poczatek i koniec naglowka
