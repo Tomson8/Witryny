@@ -101,9 +101,9 @@ strony <del>2000</del>200<br> <code>&lt;ins&gt; i &lt;/ins&gt;
  <.th>...<./th> - poczatek i koniec naglowka
 <br>
 
-<code>&lt; thead&gt; 1 &lt;/thead&gt; </code> początek i koniec sekcji nagłówka tabeli<br>
-<code>&lt;tbody&gt; &lt;/tbody&gt;</code> początek i koniec sekcji głównej tabeli<br>
-<code>&lt;tfoot&gt; 1 &lt;/tfoot&gt; </code> początek i koniec sekcji stopki tabeli<br>
+<code>&lt; thead&gt; 1 &lt;/thead&gt; </code> początek i koniec sekcji nagłówka tabeli <br>
+<code>&lt;tbody&gt; &lt;/tbody&gt;</code> początek i koniec sekcji głównej tabeli <br>
+<code>&lt;tfoot&gt; 1 &lt;/tfoot&gt; </code> początek i koniec sekcji stopki tabeli <br>
 
 <h2>Elemeny blokowe i liniowe</h2>
 
