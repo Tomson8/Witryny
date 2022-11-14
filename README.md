@@ -119,3 +119,7 @@ Linia 2 i 4 prezentuje elementy liniowe znaczniki takie jak np. a, b, strong, i,
   <h3>Identyfikatory w CSS</h3>
   <code>#nazwa</code> - odniesienie do selektora id w pliku css <br>
   <code>.nazwa</code> - odniesienie do selektora class w pliku css <br>
+  
+  <h2>Sekcje</h2>
+  <code&lt;div&gt; i &lt;div&gt </code> Element blokowy strony, nazywany również box'em albo kontenerem.
+  Wewmątrz tego elementu dodadjemy wszystkie znaczniki potrzebne w tej sekcji. Można stosować z identyfikatorem id lub class. <br>
