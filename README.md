@@ -123,3 +123,11 @@ Linia 2 i 4 prezentuje elementy liniowe znaczniki takie jak np. a, b, strong, i,
   <h2>Sekcje</h2>
   <code&lt;div&gt; i &lt;div&gt </code> Element blokowy strony, nazywany również box'em albo kontenerem.
   Wewmątrz tego elementu dodadjemy wszystkie znaczniki potrzebne w tej sekcji. Można stosować z identyfikatorem id lub class. <br>
+  <code&lt;div&gt; i &lt;div&gt </code> Początek i koniec sekcji nagłówka strony(góra strony). 
+  Tutaj umieszczamy zazwyczaj logo storny i menu główne. <br>
+  <code&lt;div&gt; i &lt;div&gt </code> Początek i koniec sekcji stopki strony (dół strony). Tutaj 
+  umieszczamy zazwyczaj treść strony<br> 
+  <code&lt;div&gt; i &lt;div&gt </code> Początek i koniec sekcji nawigacji główej storny. Tutaj 
+  umieszczamy zazwyczaj linki do innych podstron na stronie <br>
+  <code&lt;div&gt; i &lt;div&gt </code>
+  
