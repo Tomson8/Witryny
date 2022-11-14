@@ -116,3 +116,6 @@ Linia 2 i 4 prezentuje elementy liniowe znaczniki takie jak np. a, b, strong, i,
  <code> id="jakies-id"</code> atrybut znacznika, który pozwala odróżnić elementy html i odnosić się do konkretnych elementówmogą być wykorzystane jako wewnętrzny odnościk do miejsca na stronie (w a href="ajakies-id"). Atrybut "id" o tej samej nazwie nie powinien się powtarzać na stronie.
 <code> class="nazwa-klasy" </code> selektor klasy, podobne do id. Można nimi rozróżniać poszczególne elementy html. stosuje się głównie gdy chcemy aby nadać taki sam wygląd dla grupy elementów html, rzadziej odnosimy się za ich pomocą do konkretnego miejsca na stronie. Atrybut "clasa" może powtarzać się w dokumencie html <br>
 <code> id="jakies-id"</code> atrybut znacznika, który pozwala odróżnić elementy html i odnosić się do konkretnych elementów.
+  <h3>Identyfikatory w CSS</h3>
+  <code>#nazwa</code> - odniesienie do selektora id w pliku css <br>
+  <code>.nazwa</code> - odniesienie do selektora class w pliku css <br>
