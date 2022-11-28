@@ -131,3 +131,10 @@ Linia 2 i 4 prezentuje elementy liniowe znaczniki takie jak np. a, b, strong, i,
   umieszczamy zazwyczaj linki do innych podstron na stronie <br>
   <code&lt;div&gt; i &lt;div&gt </code>
   
+  <h2>Formularze</h2>
+  <code>&alt;input&gt; </code> element pozwalający na wprowadzenie danych wejściowych przez użytkowanika. Element samozamykający, nie ma znacznika końcowego. <input><br>
+  <h4>Typy znacznika</h4>
+  <ol>
+  <li> <code>&alt;input type="text"&gt; </code> Pole tekstowe <input type="text"</li>
+  </ol>
+  
