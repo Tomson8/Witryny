@@ -141,6 +141,6 @@ Linia 2 i 4 prezentuje elementy liniowe znaczniki takie jak np. a, b, strong, i,
   <li> <code>input type="button" </code> Przycisk do wykonania formularza <input type="button"</li>
   <li> <code>input type="date" </code> Pole do wprowadzenia daty <input type="date"</li>
   <li> <code>input type="color" </code> Pole do wyboru koloru <input type="color"</li>
-   li> <code>input type="FileUpload" </code> Pole załadowania pliku <input type="FileUpload"</li>
+  <li> <code>input type="FileUpload" </code> Pole załadowania pliku <input type="FileUpload"</li>
   </ol>
   
