@@ -135,6 +135,6 @@ Linia 2 i 4 prezentuje elementy liniowe znaczniki takie jak np. a, b, strong, i,
   <code>&alt;input&gt; </code> element pozwalający na wprowadzenie danych wejściowych przez użytkowanika. Element samozamykający, nie ma znacznika końcowego. <input><br>
   <h4>Typy znacznika</h4>
   <ol>
-  <li> <code>&alt;input type="text" </code> Pole tekstowe <input type="text"</li>
+  <li> <code>input type="text" </code> Pole tekstowe <input type="text"</li>
   </ol>
   
