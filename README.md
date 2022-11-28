@@ -136,5 +136,9 @@ Linia 2 i 4 prezentuje elementy liniowe znaczniki takie jak np. a, b, strong, i,
   <h4>Typy znacznika</h4>
   <ol>
   <li> <code>input type="text" </code> Pole tekstowe <input type="text"</li>
+  <li> <code>input type="number" </code> Pole do wprowadzania liczby <input type="number"</li>
+  <li> <code>input type="password" </code> Pole do wprowadzania hasła <input type="password"</li>
+  <li> <code>input type="button" </code> Przycisk do wykonania formularza <input type="button"</li>
+  <li> <code>input type="date" </code> Pole do wprowadzenia daty <input type="date"</li>
   </ol>
   
