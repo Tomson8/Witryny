@@ -144,3 +144,4 @@ Linia 2 i 4 prezentuje elementy liniowe znaczniki takie jak np. a, b, strong, i,
   <li> <code>input type="FileUpload" </code> Pole załadowania pliku <input type="FileUpload"</li>
   </ol>
   
+nfgh
