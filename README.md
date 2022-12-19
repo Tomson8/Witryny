@@ -162,8 +162,8 @@ Pole checkbox pozwala użytkownikowi na zaznaczenie dowolnej ilości pól checkb
 <select > i </select >  rozwijana lista w której definiujemy kolejne elementy, atrybut multiple określa listę wybieraną w któej możemy zaznaczyć więcej opcji
 <option > i </option >  deklaracja elementów listy rozwijanej, atrybut selected określa, który element ma być zaznaczony
 Przykład Tomek Łukasz Danila Sebastian Bartek Kamil
-<form > i </form >  deklaracja początku i końca formularza
+<.form > i </form >  deklaracja początku i końca formularza
 <input type="submit">   przycis, który powoduje przesłanie/wykonanie formularza, parametr value określa tekst który ma się pojawi na przycisku Metody przesyłania formularza:
-<form method="GET" > i </form >  przesyłanie formularza za pomocą jawnego tekstu
-<form method="POST" > i </form >  przesyłanie formularza za pomocą ukretego tekstu
-<form action="plik.php" > i </form >  parametr action powoduje przesłanie danych z formularza do pliku podanego jako wartość parametru "action"
+<.form method="GET" > i </form >  przesyłanie formularza za pomocą jawnego tekstu
+<.form method="POST" > i </form >  przesyłanie formularza za pomocą ukretego tekstu
+<.form action="plik.php" > i </form >  parametr action powoduje przesłanie danych z formularza do pliku podanego jako wartość parametru "action"
