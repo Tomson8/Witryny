@@ -144,4 +144,26 @@ Linia 2 i 4 prezentuje elementy liniowe znaczniki takie jak np. a, b, strong, i,
   <li> <code>input type="FileUpload" </code> Pole załadowania pliku <input type="FileUpload"</li>
   </ol>
   
-nfgh
+<input value="">   element pozwalający na wprowadzenie danych wejściowych z określoną watościa domyślną
+<input disabled>   element pozwalający do wprowadzania danych jest niedostępny/wyłączony
+<label> i </label>   etykieta, którą użytkownik nie moze edytować, zazwyczaj informacja co mamy wprowadzić do formularza Cena
+<input type="text" placeholder="imie i nazwisko"> i </label>   placeholder to jest tekst wypełniający input, tekst zniknie w momencie kliknięcia w input
+<input type="radio" >  pole wyboru, w jednej grupie możemy wybrać tylko jedną opcję
+Wybór 1
+Wybór 2
+Wybór 3
+Atrybut name pozwala nam określić, że dane pole radio jest w tej samej grupie, atrybut value określa wartość dla wybranej opcj
+<input type="checkbox" >  pole potwierdzenia, stosujemy w przypadku np. zgody marketingowej
+Wybór 1
+Wybór 2
+Wybór 3
+Pole checkbox pozwala użytkownikowi na zaznaczenie dowolnej ilości pól checkbox
+<textearea cols="50" > i </textearea >  pozwala wprowadzać dłuższy tekst w kilku linijkach, za pomocą parametru cols możemy okreslić ilość linii <textarea cols="50"></textarea>
+<select > i </select >  rozwijana lista w której definiujemy kolejne elementy, atrybut multiple określa listę wybieraną w któej możemy zaznaczyć więcej opcji
+<option > i </option >  deklaracja elementów listy rozwijanej, atrybut selected określa, który element ma być zaznaczony
+Przykład Tomek Łukasz Danila Sebastian Bartek Kamil
+<form > i </form >  deklaracja początku i końca formularza
+<input type="submit">   przycis, który powoduje przesłanie/wykonanie formularza, parametr value określa tekst który ma się pojawi na przycisku Metody przesyłania formularza:
+<form method="GET" > i </form >  przesyłanie formularza za pomocą jawnego tekstu
+<form method="POST" > i </form >  przesyłanie formularza za pomocą ukretego tekstu
+<form action="plik.php" > i </form >  parametr action powoduje przesłanie danych z formularza do pliku podanego jako wartość parametru "action"
